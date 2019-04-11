@@ -7,8 +7,6 @@ function add (number1, number2) {
 
 add(number1, number2)
 
-console.log((add)(-2,5))
-
 
 /**
  *Take two names and concatenate them.
@@ -23,3 +21,4 @@ function getFullName(firstName, lastName) {
 }
 
 console.log(getFullName("Paul", "Sschulzetenberg"));
+
