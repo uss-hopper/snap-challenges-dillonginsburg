@@ -7,6 +7,6 @@ create table Task (
 	taskDueDate datetime,
 	taskStatus varchar(64) not null,
 	taskPriority varchar(64) not null,
-	taskDescription varchar(256)
-		primary key(TaskId)
+	taskDescription varchar(256),
+		primary key (taskId)
 );
