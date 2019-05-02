@@ -1,16 +1,12 @@
 <?php
 
 
-public static function getTweetByTweetDate(\PDO $pdo, $tweetProfileId) : \SplFixedArray {
+public static function getTweetByTweetDate(\PDO $pdo, DateTime $tweetDate) : \SplFixedArray {
 
-	try {
-		$tweetProfileId = self::validateUuid($tweetProfileId);
-	} catch(\InvalidArgumentException | \RangeException | \Exception | \TypeError $exception) {
-		throw(new \PDOException($exception->getMessage(), 0, $exception));
-	}
- 
+	startDateString= $tweetDate->format('y-m-d') . ('00:00:00');
 	// create query template
-	$query = "SELECT tweetId, tweetProfileId, tweetContent, tweetDate FROM tweet WHERE tweetDate = :tweetDate";
+	$query = "SELECT tweetId, tweetProfileId, tweetContent, tweetDate FROM tweet WHERE tweetDate>= :startDate AND tweetDate <endDate = :tweetDate";
+	
 	$statement = $pdo->prepare($query);
 	// bind the tweet profile id to the place holder in the template
 	$parameters = ["tweetDate" => $tweetDate->getBytes()];
