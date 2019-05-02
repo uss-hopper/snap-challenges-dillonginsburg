@@ -2,8 +2,8 @@
 <project version="4">
   <component name="WebServers">
     <option name="servers">
-      <webServer id="24a66348-b63d-41e8-8a0b-483fa6766146" name="Snap Callenge 1" url="https://bootcamp-coders.cnm.edu/~dginsburg">
-        <fileTransfer host="bootcamp-coders.cnm.edu" port="22" rootFolder="/home/dginsburg/public_html/snap-challenge" accessType="SFTP" authAgent="true">
+      <webServer id="24a66348-b63d-41e8-8a0b-483fa6766146" name="Snap Callenge 1" url="https://bootcamp-coders.cnm.edu/~dginsburg/snap-challenges-dillonginsburg">
+        <fileTransfer host="bootcamp-coders.cnm.edu" port="22" rootFolder="/home/dginsburg/public_html/snap-challenges-dillonginsburg" accessType="SFTP" authAgent="true">
           <advancedOptions>
             <advancedOptions dataProtectionLevel="Private" passiveMode="true" shareSSLContext="true" />
           </advancedOptions>

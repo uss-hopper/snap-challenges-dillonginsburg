@@ -2,10 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="c4a0dce7-209f-405a-a9a4-f28742fa83a7" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/snap 5-2/snap5-2.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/snap 5-2/snap5-2.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/snap 4-30/snap4-30.php" beforeDir="false" afterPath="$PROJECT_DIR$/snap 4-30/snap4-30.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/webServers.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/webServers.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/snap 5-2/snap5-2.css" beforeDir="false" afterPath="$PROJECT_DIR$/snap 5-2/snap5-2.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/snap 5-2/snap5-2.html" beforeDir="false" afterPath="$PROJECT_DIR$/snap 5-2/snap5-2.html" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -37,8 +36,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/snap 5-2/snap5-2.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="100">
-              <caret line="9" column="7" lean-forward="true" selection-start-line="9" selection-start-column="7" selection-end-line="9" selection-end-column="7" />
+            <state relative-caret-position="70">
+              <caret line="11" lean-forward="true" selection-start-line="11" selection-end-line="11" />
             </state>
           </provider>
         </entry>
@@ -46,8 +45,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/snap 5-2/snap5-2.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="119">
-              <caret line="7" lean-forward="true" selection-start-line="7" selection-end-line="7" />
+            <state relative-caret-position="34">
+              <caret line="2" column="19" selection-start-line="2" selection-start-column="19" selection-end-line="2" selection-end-column="19" />
             </state>
           </provider>
         </entry>
@@ -179,7 +178,7 @@
       <workItem from="1555596470004" duration="7635000" />
       <workItem from="1556296283851" duration="19000" />
       <workItem from="1556633447997" duration="3208000" />
-      <workItem from="1556805944577" duration="744000" />
+      <workItem from="1556805944577" duration="1908000" />
     </task>
     <task id="LOCAL-00001" summary="commit add function 4_9">
       <created>1554822134718</created>
@@ -227,7 +226,7 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="30562000" />
+    <option name="totallyTimeSpent" value="31726000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -338,15 +337,15 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/snap 5-2/snap5-2.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="100">
-          <caret line="9" column="7" lean-forward="true" selection-start-line="9" selection-start-column="7" selection-end-line="9" selection-end-column="7" />
+        <state relative-caret-position="70">
+          <caret line="11" lean-forward="true" selection-start-line="11" selection-end-line="11" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/snap 5-2/snap5-2.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="119">
-          <caret line="7" lean-forward="true" selection-start-line="7" selection-end-line="7" />
+        <state relative-caret-position="34">
+          <caret line="2" column="19" selection-start-line="2" selection-start-column="19" selection-end-line="2" selection-end-column="19" />
         </state>
       </provider>
     </entry>
