@@ -197,5 +197,5 @@ people.forEach(function(person){
 	delete person.company;
 	console.log(person.company);
 });
-//expected output: 
+//expected output:
 console.log(people);
